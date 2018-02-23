@@ -1,19 +1,17 @@
-dfhçowpvafsvkhas.dvbnsacbdfhk,cba
+# Basic Commands Overview
 
-beca beca
+* Starting a project \(3 ≠ ways\):
 
-```
-git status
-git branch -d branchtodelete
-```
+1. Fresh \(no source yet\)
+2. Existing source locally
+3. GitHub project \(fork and clone\)
 
----
+* Basic workflow \(add, commit, push & pull\)
+* Working with files \(rename, move & delete\)
+* History and Aliases
+* Ignoring unwanted files
 
-gyillç
 
-> hk,b
->
-> jfvk
 
 
 
