@@ -1,11 +1,4 @@
-  
-li.li1 {margin: 0.0px 0.0px 46.0px 0.0px; font: 46.0px 'Gill Sans Light'; color: \#535353; -webkit-text-stroke: \#535353}  
-li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 46.0px 'Gill Sans Light'; color: \#535353; -webkit-text-stroke: \#535353}  
-span.s1 {font: 37.7px 'Gill Sans Light'; -webkit-text-stroke: 0px \#000000}  
-span.s2 {font-kerning: none}  
-span.s3 {font: 37.7px 'Gill Sans Light'}  
-ul.ul1 {list-style-type: disc}  
-
+### Why Command Line?
 
 Starting off with the command line is the best way to learn git:
 
@@ -15,20 +8,7 @@ Starting off with the command line is the best way to learn git:
 
 3. Consistent: can be consistency applied on Terminal for Mac/Linux or Git Bash for Windows
 
-
-
-
-
 ### Why use source control?
-
-  
-li.li1 {margin: 0.0px 0.0px 46.0px 0.0px; font: 46.0px 'Gill Sans Light'; color: \#535353; -webkit-text-stroke: \#535353}  
-li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 46.0px 'Gill Sans Light'; color: \#535353; -webkit-text-stroke: \#535353}  
-span.s1 {font: 37.7px 'Gill Sans Light'; -webkit-text-stroke: 0px \#000000}  
-span.s2 {font-kerning: none}  
-span.s3 {font: 37.7px 'Gill Sans Light'}  
-ul.ul1 {list-style-type: disc}  
-
 
 * Backup / Archive
 * Versioning / History \(includes the history of that backup, what has changed\)
@@ -38,9 +18,9 @@ ul.ul1 {list-style-type: disc}
 * Allows for isolation of changes
 * Code review
 
+### 
 
-
-
+### Why Git?
 
 #### Git is:
 
@@ -57,6 +37,4 @@ free and open source
 active community with several resources online
 
 most popula VCS and DVCS
-
-
 
