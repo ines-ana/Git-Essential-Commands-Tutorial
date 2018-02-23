@@ -1,3 +1,6 @@
-# My Awesome Book
+# Git Essential Commands - a tutorial
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This document is a tutorial with the basic commands used in Git source control.
+
+Commands are written in the terminal and it is written to be applied in Mac OS. It uses GitHub as the ...
+
