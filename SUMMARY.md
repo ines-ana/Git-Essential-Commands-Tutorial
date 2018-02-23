@@ -1,7 +1,12 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
+* [Git Installation](git-installation.md)
 * [Git Installation](chapter1.md)
-* [I like this!](i-like-this.md)
-* [Not too fast](not-too-fast.md)
+* [Git Quick Start](i-like-this.md)
+* [Basic Git Commands](not-too-fast.md)
+
+## Starting a project
 
