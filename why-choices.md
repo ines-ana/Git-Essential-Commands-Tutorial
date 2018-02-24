@@ -9,28 +9,7 @@
 * Allows for isolation of changes
 * Code review
 
-### 
-
-### 
-
-### Tools used in this tutorial:
-
-* Git commands are written in the command line
-* The choosen Git reporsitory is [GitHub](https://github.com).
-
-### 
-
-### Why using the command line t learn Git?
-
-Starting off with the command line is the best way to learn git, mainly because of the following three reasons:
-
-1. **Online help:** nearly all tutorials and websites use the command line as the standard way to communication how git does something \(git cammands\)
-
-2. **Higher power:** only the command line provides all the power of git
-
-3. **Consistent:** can be consistency applied on Terminal for Mac/Linux or Git Bash for Windows
-
-### 
+# Are there many other VCS, besides Git?
 
 ### 
 
@@ -45,6 +24,29 @@ Starting off with the command line is the best way to learn git, mainly because 
 * free and open source
 * active community with several resources online
 * most popula VCS and DVCS
+
+
+
+### Tools used in this tutorial:
+
+* Git commands are written in the command line
+* The choosen Git reporsitory is [GitHub](https://github.com).
+
+### 
+
+### Why using the command line to learn Git?
+
+Starting off with the command line is the best way to learn git, mainly because of the following three reasons:
+
+1. **Online help:** nearly all tutorials and websites use the command line as the standard way to communication how git does something \(git cammands\)
+
+2. **Higher power:** only the command line provides all the power of git
+
+3. **Consistent:** can be consistency applied on Terminal for Mac/Linux or Git Bash for Windows
+
+### 
+
+### 
 
 
 

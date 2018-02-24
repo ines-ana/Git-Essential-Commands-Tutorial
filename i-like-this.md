@@ -1,10 +1,20 @@
 # Starting with GitHub and Project Setup
 
+---
+
+### 
+
+### Create a new project on GitHub
+
+1. Sign in on [GitHub](https://github.com), or sign up.
+2. 
+
+
 Command line tools won’t work after the OS update. Run “xcode-select --install" on the terminal.
 
+
+
 Confirm git is installed -&gt; on terminal: git version
-
-
 
 ### getting started
 
@@ -22,8 +32,6 @@ Check the box “Initialize this repository with a README”
 
 Then Create
 
-
-
 ### Prepare our local repository for the project
 
 On terminal:
@@ -33,6 +41,4 @@ On terminal:
 To create a new directory \(called projects\): type mkdyr projects
 
 Go to that projects directory: cd projects/
-
-
 
