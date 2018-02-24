@@ -1,3 +1,11 @@
+---
+plugins:
+  - theme-api
+pluginsConfig:
+  theme-api:
+    theme: dark
+---
+
 # Git Essential Commands - a tutorial
 
 This document is a tutorial with the basic commands used in Git source _\(version???\)_ control.
