@@ -29,9 +29,9 @@
 * [Backing Out Changes](backing-out-changes.md)
 * [Renaming and Moving Files](renaming-and-moving-files.md)
 * [Deleting Files](deleting-files.md)
-* History
-* Git Alias
-* Ignoring Unwanted Files and Folders
+* [History](history.md)
+* [Git Alias](git-alias.md)
+* [Ignoring Unwanted Files and Folders](ignoring-unwanted-files-and-folders.md)
 * [Cleanup and Back to Origin \(GitHub\)](cleanup-and-back-to-origin-github.md)
 
 ## Comparisons
