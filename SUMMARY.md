@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
-* [Why choices](why-choices.md)
+* [Why Use Source Control](why-choices.md)
 * [Git Terminology](chapter1.md)
 
 ## Git Installation
