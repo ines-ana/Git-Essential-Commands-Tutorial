@@ -49,9 +49,10 @@
 
 * [Branching Basics](branching-and-merging/branching-basics.md)
 * [Happy Path / Fast Forward Merges](branching-and-merging/happy-path-fast-forward-merges.md)
-* Happy Path / Disable Fast Forward Merges
-* Automatic Merges
-* Section Cleanup and Push back to GitHub
+* [Happy Path / Disable Fast Forward Merges](branching-and-merging/happy-path-disable-fast-forward-merges.md)
+* [Automatic Merges](branching-and-merging/automatic-merges.md)
+* [Conflicting Merges and Resolution](branching-and-merging/conflicting-merges-and-resolution.md)
+* [Section Cleanup and Push back to GitHub](branching-and-merging/section-cleanup-and-push-back-to-github.md)
 
 ## Conflicting Merges and Resolution
 
